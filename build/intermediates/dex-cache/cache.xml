@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.twotoasters.jazzylistview/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="451e07e95c9f662049ab14915bd1c8114e8acc2b">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-7aaf9fe8a0612f5dbe784e63f624dcf55a534db0.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-640a890bb0649f67677d36be0bf01e412fb7d199.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-fc28569f7178884af4a5f6f44fc0948941f3a54e.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-fb746992aa27923b41ee2729bb51505667ec0934.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-c6e1001456ce948f2e984a1a310492af4c4c7852.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-9909dde49f99022e18d59b63ed357ed8db4b10a4.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-4197b475713b311ed3f9bd484134ec54f003a4d0.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-fcfc2f4acff029844851f7ee08571931a5c09a51.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.synnapps/carouselview/0.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c40f66798a98cc3f9bf6401c1eb6baacd4e12244">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-655433ae20ec908fad29ae6af7f87221b482cc9d.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.twotoasters.jazzylistview/library-recyclerview/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="00f42ab7ae9f8747f735bba2cc61c3fdaf7133be">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-740e87eeb1072168253d9b230e3c94246d81bc00.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/bulbulhossen/Desktop/Android-Parallax-ListView-Sticky-master/app/build/intermediates/pre-dexed/debug/classes-f3fb1ee9d3675203b4eb9a8653bece5492342e17.jar" />
+    </item>
+
+</items>

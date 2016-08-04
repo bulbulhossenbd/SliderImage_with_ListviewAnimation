@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+    <string name="quit">quit</string>
+    <string name="title">Are you close application></string>
+
+
+
+
+
+
+
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Articles</string>
+    <string name="nav_item_notifications">Developer by</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+
+
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+        <item>@string/krishi_name_4</item>
+        <item>@string/krishi_name_5</item>
+        <item>@string/krishi_name_6</item>
+        <item>@string/krishi_name_7</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+    </string-array>
+
+    <string name="title_messages">Bulbull</string>
+    <string name="title_friends">Articles</string>
+    <string name="title_home">বীজবপন </string>
+
+
+    <string name="shamsur_name">বীজ </string>
+
+
+    <string name="kkobita_list"> ফসল পরিচিতি</string>
+    <string name="krishi_name_1"> ফসল পরিচিতিি</string>
+    <string name="krishi_name_2">বীজ </string>
+    <string name="krishi_name_3">বীজবপন  </string>
+    <string name="krishi_name_4">বীজবপন  </string>
+    <string name="krishi_name_5">বীজবপন  </string>
+    <string name="krishi_name_6">বীজবপন  </string>
+    <string name="krishi_name_7">বীজবপন  </string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="shamsur_nav_drawer_labels">
+        <item>@string/kkobita_list</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+        <item>@string/krishi_name_4</item>
+        <item>@string/krishi_name_5</item>
+        <item>@string/krishi_name_6</item>
+        <item>@string/krishi_name_7</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+
+    </string-array>
+
+
+    <!--listview kobita -->
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="shamsur_Kobita_listName">
+
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+        <item>@string/krishi_name_4</item>
+        <item>@string/krishi_name_5</item>
+
+
+
+    </string-array>
+</resources>
