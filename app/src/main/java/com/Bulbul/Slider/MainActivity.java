@@ -1,4 +1,4 @@
-package com.Bulbul.Slider;
+package com.javatechig.Slider;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.javatechig.Slider.R;
+import com.Bulbul.Slider.ListView_Adapter;
 import com.synnapps.carouselview.CarouselView;
 import com.synnapps.carouselview.ImageListener;
 
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         listView = (ListView) findViewById(R.id.listView);
         String[] str = getResources().getStringArray(R.array.shamsur_Kobita_listName);
-        final com.javatechig.Slider.ListView_Adapter ad = new com.javatechig.Slider.ListView_Adapter(this, str, image);
+        final ListView_Adapter ad = new ListView_Adapter(this, str, image);
         listView.setAdapter(ad);
 
 
