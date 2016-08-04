@@ -1,4 +1,4 @@
-package com.javatechig.Slider;
+package com.Bulbul.Slider;
 
 import android.content.Context;
 import android.graphics.Typeface;
